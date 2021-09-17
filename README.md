@@ -3,7 +3,7 @@
 - 🌱  Minha paixão está em aprender sobre as tecnologias mais recentes e suas usabilidades.
 - 💞️  Aficionado por tecnologia desde a infância, levo até a área de trabalho muita competência, experiência e ambição para evoluir como profissional.
 - 📫 Linkedin: Oranyam Moura, Instagram: @Oranyy.
-
+https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 <!---
 Oranyam/Oranyam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
